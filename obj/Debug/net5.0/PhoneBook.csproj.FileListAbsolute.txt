@@ -1,0 +1,15 @@
+/Users/macbookpro/rated-r/bin/Debug/net5.0/PhoneBook.deps.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/PhoneBook.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/ref/PhoneBook.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/PhoneBook.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.csproj.AssemblyReference.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/ref/PhoneBook.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache

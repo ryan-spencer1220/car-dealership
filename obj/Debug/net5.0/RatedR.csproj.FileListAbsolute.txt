@@ -1,0 +1,15 @@
+/Users/macbookpro/rated-r/bin/Debug/net5.0/RatedR.deps.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/RatedR.runtimeconfig.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/RatedR.runtimeconfig.dev.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/RatedR.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/ref/RatedR.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/RatedR.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.csproj.AssemblyReference.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.AssemblyInfoInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.AssemblyInfo.cs
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.csproj.CoreCompileInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/ref/RatedR.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/RatedR.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/macbookpro/rated-r/bin/Debug/net5.0/StartWithZ.deps.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/StartWithZ.runtimeconfig.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/StartWithZ.runtimeconfig.dev.json
+/Users/macbookpro/rated-r/bin/Debug/net5.0/StartWithZ.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/ref/StartWithZ.dll
+/Users/macbookpro/rated-r/bin/Debug/net5.0/StartWithZ.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.csproj.AssemblyReference.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.AssemblyInfoInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.AssemblyInfo.cs
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.csproj.CoreCompileInputs.cache
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/ref/StartWithZ.dll
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.pdb
+/Users/macbookpro/rated-r/obj/Debug/net5.0/StartWithZ.genruntimeconfig.cache
